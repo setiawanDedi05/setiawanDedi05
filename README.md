@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dedi Setiawan</h1>
-<img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="coding">
+<center><img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="coding"></center>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setiawandedi05&label=Profile%20views&color=0e75b6&style=flat" alt="setiawandedi05" /> </p>
 
