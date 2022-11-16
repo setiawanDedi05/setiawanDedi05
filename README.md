@@ -1,9 +1,9 @@
+<p align="center"><img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="coding"></p>
 <h1 align="center">Hi 👋, I'm Dedi Setiawan</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setiawandedi05&label=Profile%20views&color=0e75b6&style=flat" alt="setiawandedi05" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dssetiawan05" target="blank"><img src="https://img.shields.io/twitter/follow/dssetiawan05?logo=twitter&style=for-the-badge" alt="dssetiawan05" /></a> </p>
-<p align="left">
 - 🔭 I’m currently working on **Wide Technologies Indonesia**
 
 - 🌱 I’m currently learning **React, React Native, Flutter, Java, Three js**
@@ -13,8 +13,6 @@
 - 📫 How to reach me **dssetiawan05@gmail.com**
 
 - ⚡ Fun fact **I'm Curious**
-</p>
-<p align="right"><img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" alt="coding"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dssetiawan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dssetiawan05" height="30" width="40" /></a>
