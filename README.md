@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Falbinagorta%2Falbinagorta&psig=AOvVaw0PFFLcsE34FHljWpKIqwWk&ust=1668651719587000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIito5rSsfsCFQAAAAAdAAAAABAO" alt="me" />
+<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Dedi Setiawan</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=setiawandedi05&label=Profile%20views&color=0e75b6&style=flat" alt="setiawandedi05" /> </p>
