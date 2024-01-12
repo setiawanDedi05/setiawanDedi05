@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/dssetiawan05" target="blank"><img src="https://img.shields.io/twitter/follow/dssetiawan05?logo=twitter&style=for-the-badge" alt="dssetiawan05" /></a> </p>
 - 🔭 I’m currently working on **Wide Technologies Indonesia**
 
-- 🌱 I’m currently learning **React, React Native, Flutter, Java, Three js**
+- 🌱 I’m currently learning **React Js, Dart, Flutter, Java, Laravel**
 
 - 👨‍💻 All of my projects are available at [portofolio.dedi-setiawan.com](portofolio.dedi-setiawan.com)
 
