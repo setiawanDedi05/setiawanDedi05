@@ -11,5 +11,6 @@
 
 <p>
     <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
+    <img src="https://img.shields.io/badge/logo-nestjs-blue?logo=nestjs" />
 </p>
 
