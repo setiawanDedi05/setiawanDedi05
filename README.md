@@ -6,12 +6,3 @@
 - 📫 How to reach me **dssetiawan05@gmail.com**
 
 - ⚡ Fun fact **I'm Curious**
-
-- ### <summary><strong>Familiar with:</strong></summary>
-
-<p>
-    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
-    <img src="https://img.shields.io/badge/logo-nestjs-blue?logo=nestjs" />
-    <img src="https://img.shields.io/badge/logo-nextjs-blue?logo=nextjs" />
-</p>
-
