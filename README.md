@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=setiawandedi05" alt="setiawandedi05" /></a> </p>
 
-- 🔭 I’m currently working on **PT. Wide Technologies Indonesia**
+- 🔭 I’m currently working on **PT DAnS Multi Pro**
 
 - 👨‍💻 All of my projects are available at [https://setiawandedi05.github.io/](https://setiawandedi05.github.io/)
 
